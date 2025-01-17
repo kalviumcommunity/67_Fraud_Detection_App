@@ -1,4 +1,4 @@
-1. AI-Powered Payment Fraud Detection System for Credit and Debit Cards
+"1. AI-Powered Payment Fraud Detection System for Credit and Debit Cards"
 
 Project Overview:
 This project focuses on detecting fraudulent activities in credit/debit card transactions by using machine learning models to analyze spending patterns, locations, and transaction types. It sends alerts when suspicious activities are detected, such as unusual spending patterns, transactions from unusual locations, or large amounts.
